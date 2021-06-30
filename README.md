@@ -2,7 +2,7 @@
 - 👀 I’m interested in... Writing, Programing and 3D printing
 - 🌱 I’m currently learning ... Lots of things
 - 💞️ I’m looking to collaborate on ... Anyone!!
-- 📫 How to reach me... kelbrown@redhat.com
+- 📫 How to reach me... 
 
 <!---
 kelbrown20/kelbrown20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
