@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @kelbrown20
 - 👀 I’m interested in... Writing, Programing and 3D printing
-- 🌱 I’m currently learning ... Lots of things
 - 💞️ I’m looking to collaborate on ... Anything!!
 - 📫 How to reach me... kelbrown@redhat.com
 
